@@ -17,6 +17,8 @@ Design and implement Python-based applications that:
 
 5. Demonstrate progression from simple to advanced prompts.
 
+![image](https://github.com/user-attachments/assets/92eb876b-1dbe-4741-8dcc-2dbc77e0ef70)
+
 # Objective:
 
 ## Build ChatGPT-powered assistant that:
@@ -26,17 +28,25 @@ b. Evolves with progressively advanced prompt engineering.
 c. Outputs categorized, prioritized, and optimized to-do lists.
 d. Logs data for reuse and review.
 
+![image](https://github.com/user-attachments/assets/7d37ff80-648c-4548-b805-e17ec43a2f0e)
+
+
 ## Build an AI audio content generator that:
 
 a. Accepts user prompts for music, narration, or effects.
 b. Interfaces with audio generation APIs.
 c. Saves or plays audio.
 
+![image](https://github.com/user-attachments/assets/66ebe0e9-b96e-4b7f-883f-d87936832d46)
+
+
 ## Build an AI video generation pipeline that:
 
 a. Accepts textual prompts and creates visual stories or clips.
 b. Demonstrates effect of prompt detail on output quality.
 c. Interfaces with APIs such as RunwayML or Pika Labs.
+![image](https://github.com/user-attachments/assets/31f06e3e-3386-4fa1-ac34-4cd954bdab34)
+
 
 # Procedure:
 Familiarize Yourself with Video Generation Models:
@@ -223,6 +233,8 @@ Task organization with ChatGPT.
 Audio narration generation using advanced prompting.
 
 Video generation showing differences in prompt quality.
+![image](https://github.com/user-attachments/assets/22af2f2b-8938-4297-ae33-2085026bcf5d)
+
 
 # Conclusion:
 This experiment shows how various prompting techniques can be effectively used to build AI-powered applications. In this case:
