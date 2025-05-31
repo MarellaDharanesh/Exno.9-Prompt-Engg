@@ -233,8 +233,9 @@ Task organization with ChatGPT.
 Audio narration generation using advanced prompting.
 
 Video generation showing differences in prompt quality.
-![image](https://github.com/user-attachments/assets/22af2f2b-8938-4297-ae33-2085026bcf5d)
+https://drive.google.com/file/d/1CB2WaNMPlXsCxdOg1pLJ7611WcfAV1-6/view?usp=sharing
 
+https://drive.google.com/file/d/1IVyoQm--_Xb33SwFULLlGosjXnM6qMwO/view?usp=drive_link
 
 # Conclusion:
 This experiment shows how various prompting techniques can be effectively used to build AI-powered applications. In this case:
